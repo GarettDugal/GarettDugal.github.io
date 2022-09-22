@@ -1,11 +1,11 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>Garett's Portfolio</title>
+        <title>Aidan's Portfolio</title>
         <style type="text/css">
           body {
-              background: rgb(255, 50, 50);
-              color: rgb(190, 190, 190);
+              background: rgb(131, 209, 216);
+              color: rgb(190, 183, 183);
               padding: 10px;
               font-family: arial;
           }
@@ -21,7 +21,7 @@
  
           /* navigation menu */
           nav {
-              background: rgb(255, 125, 125);
+              background: rgb(94, 230, 235);
               margin: 0 auto;
               display: flex;
               padding: 10px;
@@ -29,7 +29,7 @@
           h1 {
               display: flex;
               align-items: center;
-              color: rgb(0, 0, 0);
+              color: rgb(2, 1, 78);
               flex: 1;
               margin: 0;
           }
@@ -47,13 +47,13 @@
  
           /* main container area beneath menu */
           main {
-              background: rgb(255, 175, 175);
+              background: rgb(127, 125, 233);
               display: flex;
           }
           .content {
               flex: 1;
               padding: 15px;
-              color: rgb(300, 0, 0);
+              color: rgb(25, 29, 248);
           }
           #portfolio {
              list-style-type: none;
@@ -68,7 +68,7 @@
          }
  
          #portfolio li:hover {
-             background: rgb(100, 100, 100);
+             background: rgb(14, 176, 197);
          }
  
          #portfolio a {
@@ -81,7 +81,7 @@
     <body>
       <div id="all-contents">
         <nav>
-          <h1>Garett's Portfolio</h1>
+          <h1>Aidan's Portfolio</h1>
           <ul id="nav-ul">
              <li class="nav-li">
              <a class="nav-a" href="index.html">Home</a>
