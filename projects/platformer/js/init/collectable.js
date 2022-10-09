@@ -45,10 +45,11 @@
     createCollectable(type.db, 150, 150, 7, .6)
     createCollectable(type.steve, 400, 400,5 ,.8)
     createCollectable(type.max, 600, 600, 4, .9)
-    createCollectable(type.grace, 100,700,8, .5)
+    createCollectable(type.grace, 100,650,8, .5)
 
     // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
     ////////////////////////////////////////////////////////////////////////
   }
   collectable.init = init;
 })(window);
+ 
